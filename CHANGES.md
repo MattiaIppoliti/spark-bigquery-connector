@@ -1,5 +1,7 @@
 # Release Notes
 
+## Next
+
 ## 0.36.4 - 2024-07-24
 * PR #1261: Adding IdentityToken header in readRows call
 
